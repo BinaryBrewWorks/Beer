@@ -1,4 +1,4 @@
-Binary Brew Works  -  Current Rotation
+<h1>Binary Brew Works  -  Current Rotation</h1>
 
 <img src="http://www.10101brew.com/images/tcpipa_thin.jpg">
 
